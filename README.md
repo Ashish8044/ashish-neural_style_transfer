@@ -1,2 +1,3 @@
 # ashish-neural_style_transfer
-for college project
+for college project 
+Author Ashish kumar,samriddh,harkirat (team work)
